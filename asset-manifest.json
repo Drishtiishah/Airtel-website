@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/airtel-Website/static/css/main.af840fbd.chunk.css",
-    "main.js": "/airtel-Website/static/js/main.a7c607bd.chunk.js",
-    "main.js.map": "/airtel-Website/static/js/main.a7c607bd.chunk.js.map",
-    "runtime-main.js": "/airtel-Website/static/js/runtime-main.7daf6336.js",
-    "runtime-main.js.map": "/airtel-Website/static/js/runtime-main.7daf6336.js.map",
-    "static/js/2.a502393f.chunk.js": "/airtel-Website/static/js/2.a502393f.chunk.js",
-    "static/js/2.a502393f.chunk.js.map": "/airtel-Website/static/js/2.a502393f.chunk.js.map",
-    "index.html": "/airtel-Website/index.html",
-    "static/css/main.af840fbd.chunk.css.map": "/airtel-Website/static/css/main.af840fbd.chunk.css.map",
-    "static/js/2.a502393f.chunk.js.LICENSE.txt": "/airtel-Website/static/js/2.a502393f.chunk.js.LICENSE.txt",
-    "static/media/logo.355735b3.svg": "/airtel-Website/static/media/logo.355735b3.svg"
+    "main.css": "/Airtel-website/static/css/main.af840fbd.chunk.css",
+    "main.js": "/Airtel-website/static/js/main.68427bb1.chunk.js",
+    "main.js.map": "/Airtel-website/static/js/main.68427bb1.chunk.js.map",
+    "runtime-main.js": "/Airtel-website/static/js/runtime-main.b8477c31.js",
+    "runtime-main.js.map": "/Airtel-website/static/js/runtime-main.b8477c31.js.map",
+    "static/js/2.56cb0bea.chunk.js": "/Airtel-website/static/js/2.56cb0bea.chunk.js",
+    "static/js/2.56cb0bea.chunk.js.map": "/Airtel-website/static/js/2.56cb0bea.chunk.js.map",
+    "index.html": "/Airtel-website/index.html",
+    "static/css/main.af840fbd.chunk.css.map": "/Airtel-website/static/css/main.af840fbd.chunk.css.map",
+    "static/js/2.56cb0bea.chunk.js.LICENSE.txt": "/Airtel-website/static/js/2.56cb0bea.chunk.js.LICENSE.txt",
+    "static/media/logo.355735b3.svg": "/Airtel-website/static/media/logo.355735b3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7daf6336.js",
-    "static/js/2.a502393f.chunk.js",
+    "static/js/runtime-main.b8477c31.js",
+    "static/js/2.56cb0bea.chunk.js",
     "static/css/main.af840fbd.chunk.css",
-    "static/js/main.a7c607bd.chunk.js"
+    "static/js/main.68427bb1.chunk.js"
   ]
 }
